@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Q11403 {
+public class Q11403Floyd {
 	public static void main(String[] args) throws IOException {
 		//floyd's algorithms
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
